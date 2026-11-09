@@ -1,0 +1,11 @@
+{
+  "sens": 45,
+  "fov": 90.0,
+  "volume": 0.7,
+  "bots": 16,
+  "difficulty": 3,
+  "kill_limit": 80,
+  "team": "t",
+  "fps": true,
+  "fullscreen": false
+}
